@@ -14,6 +14,8 @@ A função treeVisualizer cria uma representação visual de uma árvore binári
 ### Exemplo de saída
 ![primeiro caso](./1.png)
 
+*** 
+
 # Segundo Caso
 
 ## Sistema de Banco de Dados (SQL)
@@ -23,3 +25,17 @@ O script SQL cria e popula duas tabelas relacionadas: PESSOA (funcionários) e D
 
 ### Exemplo de saída
 ![primeiro caso](./2.png)
+
+***
+
+### Pré-requisitos
+- Node.js para executar o JavaScript
+- SQL Server ou compatível para executar o script SQL
+
+### Como executar
+
+#### Para o JavaScript:
+node index.js
+
+#### Para o SQL:
+Execute o script completo em seu gerenciador de banco de dados preferido.
