@@ -12,4 +12,14 @@ A função treeVisualizer cria uma representação visual de uma árvore binári
 - Gera uma visualização gráfica no console
 
 ### Exemplo de saída
-![primeiro caso]("./1.png")
+![primeiro caso](./1.png)
+
+# Segundo Caso
+
+## Sistema de Banco de Dados (SQL)
+
+### Descrição
+O script SQL cria e popula duas tabelas relacionadas: PESSOA (funcionários) e DEPARTAMENTO, com uma consulta que retorna os salários ordenados do maior para o menor.
+
+### Exemplo de saída
+![primeiro caso](./2.png)
