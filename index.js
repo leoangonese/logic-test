@@ -39,4 +39,5 @@ function createTree(array) {
     treeVisualizer(bigger, left, right);
 }
 
-createTree([3, 5, 4, 2, 1, 6, 0, 5]);
+
+createTree([3, 2, 1, 6, 0, 5]);
