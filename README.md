@@ -1,6 +1,6 @@
 # Primeiro Caso
 
-## Visualizador de Árvore (JavaScript)
+## Visualizador de Árvore (JavaScript & C#)
 
 ### Descrição
 A função treeVisualizer cria uma representação visual de uma árvore binária no console, enquanto a função createTree processa um array para identificar a raiz e os galhos esquerdo/direito.
@@ -11,8 +11,12 @@ A função treeVisualizer cria uma representação visual de uma árvore binári
 - Ordena os galhos em ordem decrescente
 - Gera uma visualização gráfica no console
 
-### Exemplo de saída
+### Exemplo de saída JS
 ![primeiro caso](./1.png)
+
+
+### Exemplo de saída C#
+![primeiro caso](./3.png)
 
 *** 
 
@@ -29,10 +33,14 @@ O script SQL cria e popula duas tabelas relacionadas: PESSOA (funcionários) e D
 ***
 
 ### Pré-requisitos
+- .NET SDK para executar o c# ou acessar o <a href="https://onecompiler.com/csharp/">Compiler</a>
 - Node.js para executar o JavaScript
 - SQL Server ou compatível para executar o script SQL
 
 ### Como executar
+
+### Para o C#
+dotnet run (no diretorio do script) ou acesse o compiler e cole o <a href="./index.cs">Código</a>
 
 #### Para o JavaScript:
 node index.js
