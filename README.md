@@ -33,14 +33,14 @@ O script SQL cria e popula duas tabelas relacionadas: PESSOA (funcionários) e D
 ***
 
 ### Pré-requisitos
-- .NET SDK para executar o c# ou acessar o <a href="https://onecompiler.com/csharp/">Compiler</a>
+- .NET SDK para executar o c# ou acessar o <a href="https://onecompiler.com/csharp/" target="_blank">Compiler</a>
 - Node.js para executar o JavaScript
 - SQL Server ou compatível para executar o script SQL
 
 ### Como executar
 
 ### Para o C#
-dotnet run (no diretorio do script) ou acesse o compiler e cole o <a href="./index.cs">Código</a>
+dotnet run (no diretorio do script) ou acesse o compiler e cole o <a href="./index.cs" target="_blank">código</a>
 
 #### Para o JavaScript:
 node index.js
